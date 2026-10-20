@@ -10,3 +10,5 @@ Changer le statut d’une réparation. Tu choisis entre Reçue, En cours, En att
 Comment elle marche : l’appli reste connectée à ton site en arrière-plan grâce à une clé administrateur que toi seul possèdes. Pour l’instant, ton téléphone doit être sur le même Wi-Fi que le PC, et le site doit être lancé. Une fois le site hébergé en ligne, elle marchera partout, même en 4G.
 
 En résumé, c’est ton tableau de bord de réparateur dans la poche : tu reçois les demandes, tu contactes les clients et tu mets à jour le suivi des réparations.
+
+Attention le logiciel et encore en développement donc il peut avoir des risque de bug
